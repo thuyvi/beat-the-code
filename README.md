@@ -1,4 +1,4 @@
-<h1 style="font-size:50px;color:blue;">beat-the-code</h1>
+<h1 style="font-size:50px;color:blue;">dance-with-the-code</h1>
 coding journal
 
 <h2 style="font-size:30px;color:blue">July 2018</h2>
