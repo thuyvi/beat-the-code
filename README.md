@@ -3,6 +3,7 @@ coding journal
 
 <h2 style="font-size:30px;color:blue">November 2018</h2>
 <a href="https://docs.djangoproject.com/en/2.1/intro/tutorial01/?fbclid=IwAR0_ls2U60MUZPE3AXHUd_dGI4zy0PLkNTnqnie0VDiTkxkg_zk5hVnZWV8">Write your first Django App</a>
+<a href="https://devcenter.heroku.com/articles/getting-started-with-python?fbclid=IwAR3QoZhlx-QLy_aDjfZlq0xYYoaHAwLLNeaw7drpc2nqjCB2-uKMEopSfKY">Getting started on Heroku></a>
 </p>I will start to write Django app. I want to slowly learn how to code full stack website.
 </p>My research paper has been approval to start with data collection stage. I will not have much time for coding. I hope I still can balance the researching tasks to fulfill this goal. 
 
