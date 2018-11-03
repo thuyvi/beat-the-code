@@ -8,6 +8,8 @@ coding journal
 <br>
 I will start to write Django app. I want to slowly learn how to code full stack website.
 <br>
+Another thing that I need to work on is <b>database server</b>. I don't understand it much :(
+<br>
 My research paper has been approval to start with data collection stage. I will not have much time for coding. I hope I still can balance the researching tasks to fulfill this goal. 
 
 
