@@ -11,9 +11,9 @@ I will start to write Django app. I want to slowly learn how to code full stack 
 Another thing that I need to work on is <a href="http://www.mysqltutorial.org/"><b>database server</b></a>. I don't understand it much :(
 <br>
 My research paper has been approval to start with data collection stage. I will not have much time for coding. I hope I still can balance the researching tasks to fulfill this goal. 
-<br>
+<br><br>
 <i>Nov 3rd</i>
-<br>I have just finished the 1st part tutorial to write the first Django app. It's freaking difficult. 
+<br>I have just finished the 1st part of tutorial to write the first Django app. It's freaking difficult. 
 <br>There are so many things I can't understand groundly. I keep telling me that "ok, don't think much. Just like a baby learn news language, I will understand them eventually". That way, am I doing wrong?
 
 <h2 style="font-size:30px;color:blue">July 2018</h2>
