@@ -13,6 +13,7 @@ My research paper has been approval to start with data collection stage. I will 
 <i>Nov 3rd</i>
 <br>I have just finished the 1st part of tutorial to write the first Web app. It's freaking difficult. 
 <br>There are so many things I can't understand groundly. I keep telling me that "ok, don't think much. Just like a baby learn news language, I will understand them eventually". That way, am I doing wrong?
+<br><br>
 <i>Nov 15th</i>
 <br>Today is my birthday. I had good time with my beloved host family and my friends. I miss my family in Vietnam so much. 
 <br>I keep stuyding javascript these days. It was not really hard. However, the fact is that I don't use it for pratical projects stops me from remembering it. I just want to have an overview of it before jump into PhP. 
