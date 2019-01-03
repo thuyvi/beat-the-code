@@ -4,7 +4,7 @@ coding journal
 <h2 style="font-size:30px;color:blue">December 2018</h2>
 <br>Start a Course on Udemy. Let's see if this can help me get more knowledge than running around reading like what I am doing.
 <br>Get a FreeCodeCamp account. I think this one seems like w3schools from which I keep getting the basic knowledge. 
-<br>I think I should start with a real small project to use what I have learned about HTML/CSS/Javascript. I will build a blog for 2 people. I have search for reference about this kind of blog but still have no glue if anyone has done it yet. 
+<br>I think I should start with a real small project to use what I have learned about HTML/CSS/Javascript. I will build a blog for 2 people. I have searched for reference about this kind of blog but still have no glue if anyone has done it yet. 
 <br>Happy New Year!
 
 <h2 style="font-size:30px;color:blue">November 2018</h2>
