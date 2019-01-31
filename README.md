@@ -1,8 +1,7 @@
 <h1 style="font-size:50px;color:blue;">dance-with-the-code</h1>
 coding journal
 
-<h2 style="font-size:30px;color:blue">January 2019</h2>
-<br>This year resolution: I will answer the question: HOW HARD TO BECOME AN EDUCATION TECHNOLOGY EXPERT WITH LIMITED TECHNOLOGY SKILLS? WILL KNOWLEDGE IS ENOUGH?
+<h2 style="font-size:30px">2019 resolution: I will answer the question: HOW HARD TO BECOME AN EDUCATION TECHNOLOGY EXPERT WITH LIMITED TECHNOLOGY SKILLS? WILL KNOWLEDGE IS ENOUGH?</h2>
 
 <h2 style="font-size:30px;color:blue">December 2018</h2>
 <br>Start a Course on Udemy. Let's see if this can help me get more knowledge than running around reading like what I am doing.
